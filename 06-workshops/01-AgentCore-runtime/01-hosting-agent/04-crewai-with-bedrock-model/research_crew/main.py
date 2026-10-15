@@ -9,7 +9,9 @@ def run():
     Run the research crew.
     """
     inputs = {
-        'topic': 'Artificial Intelligence in Healthcare'
+        # 'topic': 'Artificial Intelligence in Healthcare'
+        'topic': 'GenAI in Healthcare - impact on patient-doctor interaction'
+
     }
 
     # Create and run the crew
